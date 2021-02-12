@@ -1,0 +1,11 @@
+wheel
+numpy
+pandas
+setuptools
+jupyter
+ipython
+ipykernel
+matplotlib
+seaborn
+icecream
+plotly
